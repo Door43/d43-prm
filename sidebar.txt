@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[prm:home|Door43 (prm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-prm|d43-prm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-prm/archive/master.zip|d43-prm.zip]]
+
+**Recent Changes**
+{{changes>ns = prm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/prm|Ethnologue data]]
+
